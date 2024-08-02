@@ -5,6 +5,8 @@ pitch
 
 Based on "Pitch" at https://www.pitch.com/
 
+Based on "Introduction to Pitch | Create beautiful presentations with your team" at https://www.youtube.com/watch?v=S_Dxwo5F_cE
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
