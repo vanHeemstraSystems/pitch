@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+pitch
+# Pitch
 
-Based on "ABC" at https://www.abc.com/
+> Online presentation maker — Build decks from scratch, or use free templates to make stunning presentations with Pitch.
+
+Based on "Pitch" at https://www.pitch.com/
 
 ## 100 - Introduction
 
